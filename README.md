@@ -11,3 +11,5 @@ A aplicação é exposta usando a porta 8080
 dentro da pasta SRC rodar o comnado -> npm install
 
 depois o comando -> node server.js
+
+To run NGNIX  /usr/sbin/nginx  -g "daemon off;"
